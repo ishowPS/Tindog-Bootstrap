@@ -11,4 +11,4 @@ The website's design is visually appealing and engaging, featuring a carousel of
 
 As the developer, I am clear with the concepts learned during this project and am excited to move on to learning JavaScript. TinDog is a perfect example of the skills and knowledge gained during my practice, and I am confident in my ability to apply these skills in future projects.
 
-Thank you for visiting TinDog.
+Thank you for visiting TinDog
